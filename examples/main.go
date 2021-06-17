@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/vishal1132/gset"
+	"github.com/vishal1132/crdts/gset"
 )
 
 func main() {
